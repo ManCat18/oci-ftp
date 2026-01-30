@@ -21,8 +21,8 @@ export default function Projet() {
 
             
             <div className="grid sm:text-sm grid-cols-3 gap-8">
-                <a href="/Numerique" className="mb-16 inline-block rounded-lg">
-                    <div className="bg-white rounded-2xl p-8 shadow-sm">
+                <a href="/Numerique" className="mb-8 inline-block rounded-lg">
+                    <div className="bg-white rounded-2xl p-4 shadow-sm ">
                         <h3 className="text-lg text-center font-semibold mb-4"> 📵 Inclusion numérique</h3>
                         <p className="text-gray-600">
                             Le but de notre solution est d'être utilisable sans équipement personnel ni compétences techniques.
@@ -30,8 +30,8 @@ export default function Projet() {
                     </div>
                 </a>
 
-                <a href="/Langue" className="mb-16 inline-block rounded-lg">
-                    <div className="bg-white rounded-2xl p-8 shadow-sm">
+                <a href="/Langue" className="mb-8 inline-block rounded-lg">
+                    <div className="bg-white rounded-2xl p-4 shadow-sm ">
                         <h3 className="text-lg text-center font-semibold mb-4"> 🌍 Barrière de la langue</h3>
                         <p className="text-gray-600">
                             Faciliter les échanges avec les publics allophones dans les structures
@@ -40,8 +40,8 @@ export default function Projet() {
                     </div>
                 </a>
 
-                <a href="Handicap" className="mb-16 inline-block rounded-lg">
-                    <div className="bg-white rounded-2xl p-8 shadow-sm">
+                <a href="/Handicap" className="mb-8 inline-block rounded-lg">
+                    <div className="bg-white rounded-2xl p-4 shadow-sm ">
                         <h3 className="text-lg text-center font-semibold mb-4"> ♿ Handicap</h3>
                         <p className="text-gray-600">
                             Proposer des modes de communication adaptés aux handicaps de communication.

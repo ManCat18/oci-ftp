@@ -120,7 +120,7 @@ export default function Home() {
     </div >
   );
 }
-// Hook personnalisé pour détecter la visibilité
+
 function useInView(options = {}) {
     const [isInView, setIsInView] = useState(false);
     const ref = useRef(null);
